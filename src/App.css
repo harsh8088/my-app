@@ -22,6 +22,24 @@
   font-size: large;
 }
 
+
+.App-button-signin{
+  padding:4px;
+  font-size: 14px;
+  background-color: lightgray;
+  color:black;
+}
+
+.App-div-signin{
+  margin-top: 2px;
+    position: fixed;
+    right: 0;
+    top: 0;
+    padding: 4px;
+    border: 2px solid rgb(240, 241, 237);
+
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
